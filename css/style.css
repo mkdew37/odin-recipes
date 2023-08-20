@@ -1,10 +1,10 @@
-.header      {
+h1      {
             color: crimson;
             background-color: gold;
             font-size:  34px;
             text-align: center;
             font-weight: bold;
-            font-family: tahoma, Arial, sans-serif;
+            font-family: Tahoma, Arial, sans-serif;
 }
 
 .unlist         {
@@ -15,11 +15,25 @@
 .frontpicture       {
             height: auto;
             width:  750px;
-            
-
-
 }
 
-.header2        {
-                color: crimson;
+h2      {
+            color: forestgreen;
+            font-size: 28px;
+            font-weight: bold;
+            font-family: Tahoma, Arial, sans-serif;
+}
+
+p          {
+            color: black;
+            font-size: 20px;
+            font-family: Tahoma, Arial, sans-serif;
+}
+
+h3        {
+            color: forestgreen;
+            font-size: 24px;
+            font-weight:  bold;
+            font-family: Tahoma, Arial, sans-serif;
+
 }
