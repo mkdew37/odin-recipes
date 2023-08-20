@@ -7,6 +7,27 @@ h1      {
             font-family: Tahoma, Arial, sans-serif;
 }
 
+h2      {
+            color: forestgreen;
+            font-size: 28px;
+            font-weight: bold;
+            font-family: Tahoma, Arial, sans-serif;
+}
+
+
+h3        {
+            color: forestgreen;
+            font-size: 24px;
+            font-weight:  bold;
+            font-family: Tahoma, Arial, sans-serif;
+}
+
+p          {
+            color: black;
+            font-size: 20px;
+            font-family: Tahoma, Arial, sans-serif;
+}
+
 .unlist         {
             font-family: Tahoma, Arial, sans-serif;
             font-size:  24px;
@@ -17,23 +38,14 @@ h1      {
             width:  750px;
 }
 
-h2      {
-            color: forestgreen;
-            font-size: 28px;
-            font-weight: bold;
-            font-family: Tahoma, Arial, sans-serif;
-}
-
-p          {
+.ingredients    {
             color: black;
-            font-size: 20px;
+            font-size:  20px;
             font-family: Tahoma, Arial, sans-serif;
 }
 
-h3        {
-            color: forestgreen;
-            font-size: 24px;
-            font-weight:  bold;
+.ordered           {
+            color: black;
+            font-size:  20px;
             font-family: Tahoma, Arial, sans-serif;
-
 }
