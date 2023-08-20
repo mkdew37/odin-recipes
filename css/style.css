@@ -1,0 +1,25 @@
+.header      {
+            color: crimson;
+            background-color: gold;
+            font-size:  34px;
+            text-align: center;
+            font-weight: bold;
+            font-family: tahoma, Arial, sans-serif;
+}
+
+.unlist         {
+            font-family: Tahoma, Arial, sans-serif;
+            font-size:  24px;
+}
+
+.frontpicture       {
+            height: auto;
+            width:  750px;
+            
+
+
+}
+
+.header2        {
+                color: crimson;
+}
